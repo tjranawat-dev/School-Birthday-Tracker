@@ -1,0 +1,22 @@
+# Python Caches
+__pycache__/
+*.pyc
+
+# Build Folders (PyInstaller)
+build/
+dist/
+*.spec
+
+# User Data & Keys (इन्हें कभी ऑनलाइन अपलोड न करें)
+students_data.xlsx
+staff_data.xlsx
+photos/
+Backups/
+app_errors.log
+config.json
+secure_time.key
+license.key
+
+# OS generated files
+.DS_Store
+Thumbs.db
